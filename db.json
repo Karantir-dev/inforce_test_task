@@ -1,0 +1,105 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-gold-select-201810?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1603332211000",
+      "name": "Mac",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://www.notebookcheck-ru.com/uploads/tx_nbc2/air13teaser.jpg",
+      "name": "Android",
+      "count": 6,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://cdn1.it4profit.com/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fill:540/bg:f6f6f6/q:100/plain/s3://catalog-products/191209072611168990/200110150007510217.png@webp",
+      "name": "Apple",
+      "count": 9,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-gold-select-201810?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1603332211000",
+      "name": "Product name",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://www.notebookcheck-ru.com/uploads/tx_nbc2/air13teaser.jpg",
+      "name": "Product name",
+      "count": 6,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://cdn1.it4profit.com/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fill:540/bg:f6f6f6/q:100/plain/s3://catalog-products/191209072611168990/200110150007510217.png@webp",
+      "name": "Product name",
+      "count": 9,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        "",
+        ""
+      ]
+    },
+    {
+      "imageUrl": "https://ilounge.ua/files/products/apple-iphone-12-256gb-black-mgjg3-ua-2.300x300.jpeg",
+      "name": "Apple",
+      "count": 2,
+      "size": {
+        "width": 4,
+        "height": 3
+      },
+      "weight": "123",
+      "id": 7
+    }
+  ]
+}
